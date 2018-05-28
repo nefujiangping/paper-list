@@ -9,3 +9,6 @@
 8. Qingyu Zhou, Nan Yang, Furu Wei, Ming Zhou. [Sequential Copying Networks.](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16323) AAAI (2018).
 9. Jianmin Zhang, Jiwei Tan, Xiaojun Wan. [Towards a Neural Network Approach to Abstractive Multi-Document Summarization.](https://arxiv.org/abs/1804.09010) arXiv:1804.09010 (2018).
 10. Chen, Wenhu, Guanlin Li, Shuo Ren, Shujie Liu, Zhirui Zhang, Mu Li, and Ming Zhou. [Generative Bridging Network in Neural Sequence Prediction.](https://arxiv.org/abs/1706.09152) NAACL (2018).
+
+# Text Generation
+1. Qingyun Wang, Zhihao Zhou, Lifu Huang, Spencer Whitehead, Boliang Zhang, Heng Ji, Kevin Knight. [Paper Abstract Writing through Editing Mechanism.](https://arxiv.org/pdf/1805.06064.pdf)  ACL (2018). [code](https://github.com/EagleW/Writing-editing-Network)
